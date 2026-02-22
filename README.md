@@ -83,7 +83,7 @@ This GitHub profile is designed to demonstrate:
 ## 📫 Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/abdalrhman-kurdi-832456328  
-- **Email:** abdelrhmkurdi12@gmail.com  
+- **Email:** abdelrhmankurdi12@gmail.com  
 
 ---
 
