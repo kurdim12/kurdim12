@@ -30,7 +30,7 @@ I aim to develop AI solutions that are practical, maintainable, and impactful, w
 
 ## 🏆 Highlights
 
-- 6× Hackathon Winner  
+- 9× Hackathon Winner  
 - Experience delivering production-style prototypes  
 - Strong foundation in applied AI & software engineering  
 - Comfortable working under deadlines and technical evaluation  
